@@ -1,0 +1,1 @@
+# stylelint-config-motor-talk

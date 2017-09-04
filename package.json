@@ -1,0 +1,22 @@
+{
+  "name": "stylelint-config-motor-talk",
+  "version": "0.0.0",
+  "description": "Stylelint configuration for the MOTOR-TALK.de platform",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/technology-ebay-de/stylelint-config-motor-talk.git"
+  },
+  "author": "Juho Vepsalainen <jvepsalainen@ebay.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/technology-ebay-de/stylelint-config-motor-talk/issues"
+  },
+  "homepage": "https://github.com/technology-ebay-de/stylelint-config-motor-talk#readme",
+  "peerDependencies": {
+    "stylelint": ">= 8.0.0 < 9.0.0"
+  }
+}

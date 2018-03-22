@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/technology-ebay-de/stylelint-config-motor-talk#readme",
   "peerDependencies": {
-    "stylelint": ">= 8.0.0 < 9.0.0"
+    "stylelint": ">= 8.0.0 < 10.0.0"
   }
 }
